@@ -2,7 +2,9 @@
 
 Official channel for signed Vanda RiskGuard binary releases and customer documentation. Product source code remains private.
 
-**Status: release preparation. No approved stable customer release is available yet.**
+**Current stable release: [Vanda RiskGuard 1.1.1](https://github.com/RezaAskari4755/Vanda-RiskGuard-Releases/releases/tag/v1.1.1).** Both signed component feeds are available from Latest.
+
+Downloads: [EA package](https://github.com/RezaAskari4755/Vanda-RiskGuard-Releases/releases/download/v1.1.1/riskguard-1.1.1.zip), [Windows companion](https://github.com/RezaAskari4755/Vanda-RiskGuard-Releases/releases/download/v1.1.1/VandaUpdater.exe), [Persian customer guide](https://github.com/RezaAskari4755/Vanda-RiskGuard-Releases/releases/download/v1.1.1/Vanda-RiskGuard-Customer-Guide-FA.pdf).
 
 The Windows companion verifies signed manifests and package hashes before installation. Updates require user consent, and EA installation is gated by terminal safety. Companion self-update support starts at version 1.1.1; users of 1.0.0 need a one-time manual companion upgrade.
 
